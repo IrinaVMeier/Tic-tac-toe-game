@@ -98,4 +98,3 @@ function updateStat () {
     document.getElementById('sD').innerHTML = stat.d;
 }
 
-

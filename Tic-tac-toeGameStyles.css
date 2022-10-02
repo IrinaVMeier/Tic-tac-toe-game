@@ -52,3 +52,10 @@
     padding: 5px;
     text-align: center;
 }
+
+.button {
+    background-color: pink;
+    margin: 10px auto;
+    display: block;
+    padding: 10px;
+}
